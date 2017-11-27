@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Svelte Thys.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 53,
     "versionPublish": "4.4.1",
@@ -817,7 +817,7 @@
         }
       ]
     },
-    "Svelte Thys.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Svelte Thys",
