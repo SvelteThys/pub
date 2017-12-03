@@ -3,7 +3,7 @@
     "name": "My Site",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 56,
+    "uniqCompNum": 60,
     "versionPublish": "4.4.1",
     "theme": {
       "name": "mobirise4",
@@ -47,7 +47,7 @@
       "settings": {
         "meta_descr": "Website Maker Description",
         "title": "portfolio",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
