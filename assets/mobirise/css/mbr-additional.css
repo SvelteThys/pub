@@ -2184,6 +2184,28 @@ body {
   color: #767676;
   text-align: center;
 }
+.cid-qIv4CK6yE1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: #ffffff;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
+}
+.cid-qIv4CK6yE1 .image-block {
+  margin: auto;
+}
+.cid-qIv4CK6yE1 figcaption {
+  position: relative;
+}
+.cid-qIv4CK6yE1 figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-qIv4CK6yE1 .image-block {
+    width: 100% !important;
+  }
+}
 .cid-qBxuzvLjRq {
   padding-top: 120px;
   padding-bottom: 60px;
