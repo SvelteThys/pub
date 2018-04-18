@@ -1372,28 +1372,18 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qPyBQW2cas {
+.cid-qPzpIEyYRx {
   padding-top: 120px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-qPyBQW2cas .line {
-  background-color: #1e438e;
+.cid-qPzpIEyYRx .mbr-text,
+.cid-qPzpIEyYRx blockquote {
+  color: #767676;
+}
+.cid-qPzpIEyYRx .mbr-text {
+  text-align: center;
   color: #1e438e;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qPyBQW2cas .section-text {
-  padding: 2rem 0;
-}
-.cid-qPyBQW2cas .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qPyBQW2cas .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-qBl9Rc9KvL .navbar {
   padding: .5rem 0;
@@ -1781,7 +1771,7 @@ body {
   flex-basis: auto;
 }
 .cid-qCcWO7KZPN {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
@@ -1825,12 +1815,12 @@ body {
 }
 .cid-qCKEljcVEA .navbar {
   padding: .5rem 0;
-  background: #052a73;
+  background: #1e438e;
   transition: none;
   min-height: 77px;
 }
 .cid-qCKEljcVEA .navbar-dropdown.bg-color.transparent.opened {
-  background: #052a73;
+  background: #1e438e;
 }
 .cid-qCKEljcVEA a {
   font-style: normal;
@@ -1914,7 +1904,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qCKEljcVEA .dropdown .dropdown-menu {
-  background: #052a73;
+  background: #1e438e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -2337,6 +2327,19 @@ body {
 .cid-qBxuzvLjRq H5 {
   color: #052a73;
 }
+.cid-qPzrPLmtEb {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qPzrPLmtEb .mbr-text,
+.cid-qPzrPLmtEb blockquote {
+  color: #767676;
+}
+.cid-qPzrPLmtEb .mbr-text {
+  text-align: center;
+  color: #1e438e;
+}
 .cid-qBl9Rc9KvL .navbar {
   padding: .5rem 0;
   background: #052a73;
@@ -2722,31 +2725,8 @@ body {
 .cid-qBl9Rc9KvL .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qPyCIfO5V5 {
-  padding-top: 120px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-qPyCIfO5V5 .line {
-  background-color: #1e438e;
-  color: #1e438e;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-qPyCIfO5V5 .section-text {
-  padding: 2rem 0;
-}
-.cid-qPyCIfO5V5 .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-qPyCIfO5V5 .inner-container {
-    width: 100% !important;
-  }
-}
 .cid-qIvejg17AH {
-  padding-top: 135px;
+  padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
 }
