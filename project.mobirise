@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 77,
     "versionPublish": "4.6.7",
@@ -68,7 +68,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>her small paintings inspired by her hiking trips in nature, close to her home. These hiking trips are special, it’s a route she is making all most her entire life, which brings her back to her childhood.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>Her paintings are inspired by hiking tripes close to her home</p></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qPzpIEyYRx",
           "_anchor": "content1-22",
           "_protectedParams": [],
@@ -523,7 +523,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"5\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qCcWO7KZPN",
           "_anchor": "gallery1-1h",
           "_protectedParams": [
@@ -548,7 +548,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vogelgroep-3-2000x1548-800x619.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Vogelgroep, olieverf op doek",
                 "active": false
               },
               {
@@ -560,7 +560,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vogeltekeningen-1-2000x1475-800x590.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Nete weiland, olieverf op doek",
                 "active": false
               },
               {
@@ -572,7 +572,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vliegenzwam-1-2000x1470-800x588.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Vliegenzwammen, olieverf op doek",
                 "active": false
               },
               {
@@ -584,7 +584,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/landschap-2-2000x1245-800x498.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Mist op komst, olieverf op doek",
                 "active": false
               },
               {
@@ -596,7 +596,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/vogelschool-2-2000x1429-800x571.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Een Vogelmeer, olieverf op doek",
                 "active": false
               },
               {
@@ -608,7 +608,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/de-wind-2000x1330-800x532.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "untitled, olieverf op doek",
                 "active": false
               },
               {
@@ -620,7 +620,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bomen-2-1330x2000-800x1203.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Untitled, olieverf op doek",
                 "active": false
               },
               {
@@ -632,7 +632,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/het-vierkant-1479x2000-800x1081.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Untitled, olieverf op doek",
                 "active": false
               },
               {
@@ -644,7 +644,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/zomer-in-de-winter-2000x1356-800x542.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Untitled",
                 "active": false
               },
               {
@@ -656,7 +656,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/kleine-bewoner-1330x2000-800x1203.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Een mens op aarde, olieverf op doek",
                 "active": false
               },
               {
@@ -668,7 +668,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/makka-2000x1344-800x537.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Makka, olieverf op doek",
                 "active": false
               },
               {
@@ -680,7 +680,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/paardje-2000x1255-800x502.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Paardenplek",
                 "active": false
               },
               {
@@ -692,7 +692,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/varken-en-tulpen-1330x2000-800x1203.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Varken, olieverf op doek",
                 "active": false
               },
               {
@@ -704,7 +704,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/varken-2000x1271-800x508.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "De tractor, olieverf op doek",
                 "active": false
               },
               {
@@ -716,7 +716,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/de-koe-2-1448x2000-800x1105.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "De koe, olieverf op doek",
                 "active": false
               },
               {
@@ -728,7 +728,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/het-weilandenvlak-2000x1422-800x569.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Untitled, olie verf op doek",
                 "active": false
               },
               {
@@ -740,7 +740,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/sterrenregen-2-1464x2000-800x1093.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Het sterrenweiland, olieverf op doek",
                 "active": true
               }
             ]
@@ -1381,11 +1381,11 @@
           "_name": "content1",
           "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Boven\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"8\">\n        <input type=\"range\" inline title=\"Onder\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Achtergrondkleur\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Her drawings are made on such hiking trips, and can be seen as a reminder for what can later become a painting.&nbsp;</div>\n        </div>\n    </div>\n</section>",
           "_cid": "qPzrPLmtEb",
+          "_anchor": "content1-24",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content1-24"
+          "_params": {}
         },
         {
           "_name": "menu1",
@@ -1834,7 +1834,7 @@
             }
           },
           "_name": "gallery1",
-          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"6\"></div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-gallery mbr-slider-carousel\" group=\"Sliders & Gallery\" plugins=\"Masonry,BootstrapCarouselSwipe,Gallery,VimeoPlayer,SliderVideo\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"9\" step=\"1\" value=\"0\" inline>\n        <input type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"9\" step=\"1\" value=\"6\" inline>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n\n        <input type=\"gallery\" title=\"Gallery\" name=\"gallery\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth}\">\n        <div mbr-gallery=\"gallery\" mbr-gallery-spacing=\"6\" mbr-gallery-show-text></div>\n    </div>\n\n</section>",
           "_cid": "qIvejg17AH",
           "_anchor": "gallery1-1x",
           "_protectedParams": [
@@ -1859,7 +1859,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/berk-2017-1475x2000-800x1084.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
-                "caption": "Type caption here",
+                "caption": "Hulst, kleurpotlood op papier",
                 "active": true
               }
             ]
